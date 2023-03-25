@@ -38,3 +38,17 @@ body {
 .botchat {
     background: hotpink;
 }
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+
+}
+.carousel-inner p {
+    margin-top: 15px;
+    color: indigo;
+    font-size: 30px;
+
+}
+#mycarousel {
+    background-color: seagreen;
+}
